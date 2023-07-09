@@ -1,5 +1,6 @@
 # Maksim Mikhalev
-<img src="https://i.imgur.com/qF25U52.jpeg" alt="My photo" width = "320"></img> 
+<img src="https://i.imgur.com/qF25U52.jpeg" alt="My photo" width = "320">
+
 ## Contact information:
 - Phone: +998903158782
 - Email: maksim_mikhalev@epam.com
@@ -45,6 +46,7 @@ In my free time, I actively explore new technologies and tools in the field of d
 + Rally
 + Atlassian Confluence
 + Docker
+  
 ## Code example (from CodeWars)
 <code>SELECT price * amount AS total FROM items</code>
 
